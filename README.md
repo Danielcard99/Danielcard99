@@ -1,4 +1,4 @@
-## Seja bem vindo ao meu perfil 😁
+## Seja bem vindo ao meu perfil! 😁
 
  <div>
    <a href="https://github.com/Danielcard99">
