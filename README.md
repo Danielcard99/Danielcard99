@@ -1,5 +1,5 @@
 # Olá, me chamo Daniel Cardoso!
-Tenho 24 anos, moro sem Salvador–BA, sou apaixonado por programação e música, estou cursando Analise e desenvolvimento de Sistemas. Sou um entusiasta do universo Dev e a cada dia que passa, quanto mais aprendo, mais vejo que tenho inúmeras tecnologias para aprender!
+Tenho 24 anos, moro em Salvador–BA, sou apaixonado por programação e música, estou cursando Analise e desenvolvimento de Sistemas. Sou um entusiasta do universo da programação e a cada dia que passa, quanto mais aprendo, mais vejo que tenho inúmeras tecnologias para aprender!
 
 ## Bem vindo ao meu perfil Github! 👋
 
