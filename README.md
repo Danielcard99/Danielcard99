@@ -35,5 +35,4 @@ Tenho 24 anos, moro em Salvador–BA, sou apaixonado por programação e música
    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielcard99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
- 
-  ![Snake animation](https://github.com/Danielcard99/Danielcard99/blob/output/github-contribution-grid-snake.svg)
+
