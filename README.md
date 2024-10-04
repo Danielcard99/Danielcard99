@@ -3,7 +3,7 @@ Tenho 24 anos, moro em Salvador–BA, sou apaixonado por programação e música
 
 ## Bem vindo ao meu perfil Github! 👋
 
-- 📚  Tenho estudado Java e PHP e iniciei meus estudos com o foco de desenvolver WebSites.
+- 📚  Tenho estudado Java e PHP e iniciei meus estudos com o foco em desenvolver WebSites.
  
 - 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/_danielcarloss_/). (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
