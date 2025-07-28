@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=220&section=header&text=Daniel%20Cardoso%20🚀&fontSize=40&fontAlign=50&fontAlignY=35&desc=Back-End%20Developer%20|%20Node.js%20|%20TypeScript%20|%20AWS&descAlign=50&descAlignY=55&animation=fadeIn" alt="Daniel Cardoso Banner"/>
 </p>
 
-<h1 align="center">Olá 👋, eu sou Daniel Cardoso</h1>
-<h3 align="center">Desenvolvedor Back-End | Node.js, TypeScript, AWS, Docker</h3>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=danielcard99&label=Visualizações%20do%20Perfil&color=1E90FF&style=flat" alt="danielcard99" /> 
 </p>
