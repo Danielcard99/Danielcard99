@@ -3,6 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=220&section=header&text=Daniel%20Cardoso%20🚀&fontSize=40&fontAlign=50&fontAlignY=35&desc=Back-End%20Developer%20|%20Node.js%20|%20TypeScript%20|%20AWS&descAlign=50&descAlignY=55&animation=fadeIn" alt="Daniel Cardoso Banner"/>
 </p>
 
+<h1 align="center">Olá 👋, eu sou Daniel Cardoso</h1>
+<h3 align="center">Desenvolvedor Back-End | Node.js, TypeScript, AWS, Docker</h3>
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=danielcard99&label=Visualizações%20do%20Perfil&color=1E90FF&style=flat" alt="danielcard99" /> 
 </p>
@@ -34,18 +37,34 @@ Sou um desenvolvedor Back-End focado em **Node.js, TypeScript e AWS**, apaixonad
 ---
 
 ## 🌟 Projetos em Destaque
-- **[Taskly API](https://github.com/Danielcard99)** – API de tarefas e notas com filtros avançados e validações.  
-- **[Compass Reservation](https://github.com/Danielcard99)** – Sistema de reservas de espaços com autenticação JWT e Swagger.  
-- **[Compass Event](https://github.com/Danielcard99)** – API de eventos com AWS S3, SES e DynamoDB.
+
+- **[Taskly API](https://github.com/Danielcard99/ANMAR25_DSUP_TASKLY)** – API de tarefas e notas com filtros avançados e validações.  
+- **[Compass Reservation](https://github.com/Danielcard99/ANMAR25_D02_COMPASSRESERVATION)** – Sistema de reservas de espaços com autenticação JWT e Swagger.  
+- **[Compass Event](https://github.com/Danielcard99/COMPASS-EVENT)** – API de eventos com AWS S3, SES e DynamoDB.
+
+---
+
+## 📌 Projetos Fixados
+
+<p align="center">
+  <a href="https://github.com/Danielcard99/ANMAR25_DSUP_TASKLY">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcard99&repo=ANMAR25_DSUP_TASKLY&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Danielcard99/ANMAR25_D02_COMPASSRESERVATION">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcard99&repo=ANMAR25_D02_COMPASSRESERVATION&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
 ## 🎓 Formação
+
 **Tecnólogo em Análise e Desenvolvimento de Sistemas** – UNIFACS (2023 – Atual)
 
 ---
 
-## 🏅 Certificações
+## 🏆 Certificações
+
 - AWS Partner: Technical Accreditation (AWS)  
 - Serverless com Node.js (Udemy)  
 - NestJS Fundamentos (Udemy)  
@@ -54,27 +73,35 @@ Sou um desenvolvedor Back-End focado em **Node.js, TypeScript e AWS**, apaixonad
 
 ---
 
+## 📫 Como me encontrar
+
+- 📧 Email: [dccds1999@gmail.com](mailto:dccds1999@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/dancard99](https://linkedin.com/in/dancard99)  
+- 💻 GitHub: [github.com/Danielcard99](https://github.com/Danielcard99)
+  
+---
+
 ## 📊 Status no GitHub
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcard99&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="danielcard99" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielcard99&show_icons=true&locale=pt-br&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcard99&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielcard99&show_icons=true&locale=pt-br&theme=tokyonight" alt="danielcard99" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielcard99&theme=tokyonight" alt="danielcard99" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielcard99&theme=tokyonight" width="96%" />
 </p>
 
 ---
 
 ## 📈 Gráfico de Atividade
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danielcard99&theme=tokyo-night)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielcard99&theme=tokyo-night" width="100%" />
+</p>
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=footer" alt="footer"/>
 </p>
-
