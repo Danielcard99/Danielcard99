@@ -46,8 +46,8 @@ Sou um desenvolvedor Back-End focado em **Node.js, TypeScript e AWS**, apaixonad
 ## 📌 Projetos Fixados
 
 <p align="center">
-  <a href="https://github.com/Danielcard99/ANMAR25_DSUP_TASKLY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcard99&repo=ANMAR25_DSUP_TASKLY&theme=tokyonight" />
+  <a href="https://github.com/Danielcard99/ANMAR25_D03_COMPASSEVENT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcard99&repo=ANMAR25_D03_COMPASSEVENT&theme=tokyonight" />
   </a>
   <a href="https://github.com/Danielcard99/ANMAR25_D02_COMPASSRESERVATION">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcard99&repo=ANMAR25_D02_COMPASSRESERVATION&theme=tokyonight" />
