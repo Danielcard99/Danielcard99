@@ -38,7 +38,6 @@ Sou um desenvolvedor Back-End focado em **Node.js, TypeScript e AWS**, apaixonad
 
 ## 🌟 Projetos em Destaque
 
-- **[Taskly API](https://github.com/Danielcard99/ANMAR25_DSUP_TASKLY)** – API de tarefas e notas com filtros avançados e validações.  
 - **[Compass Reservation](https://github.com/Danielcard99/ANMAR25_D02_COMPASSRESERVATION)** – Sistema de reservas de espaços com autenticação JWT e Swagger.  
 - **[Compass Event](https://github.com/Danielcard99/COMPASS-EVENT)** – API de eventos com AWS S3, SES e DynamoDB.
 
