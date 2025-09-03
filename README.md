@@ -39,7 +39,7 @@ Sou um desenvolvedor Back-End focado em **Node.js, TypeScript e AWS**, apaixonad
 ## 🌟 Projetos em Destaque
 
 - **[Compass Reservation](https://github.com/Danielcard99/ANMAR25_D02_COMPASSRESERVATION)** – Sistema de reservas de espaços com autenticação JWT e Swagger.  
-- **[Compass Event](https://github.com/Danielcard99/COMPASS-EVENT)** – API de eventos com AWS S3, SES e DynamoDB.
+- **[Compass Event](https://github.com/Danielcard99/ANMAR25_D03_COMPASSEVENT)** – API de eventos com AWS S3, SES e DynamoDB.
 
 ---
 
